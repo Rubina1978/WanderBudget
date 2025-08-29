@@ -1,3 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+
+:root{
+--primary-color: #410403;
+--secondary-color: #e7c18a;
+--primary-font: "Noto", sans-serif;
+--secondary-font: "Playfair", sans-serif;
+}
+
+
+/* visualisation not part of the design */
+.container {
+    border: 1px solid black;
+    background-color: lightgray;
+}
+/* Global styles */
+
 body {
+    font-family: var(--primary-font);
+}
+.navbar *{
+    background-color: var(--primary-color);
+    border: var(--primary-color);
+    font-family: var(--secondary-font);
+    font-style: italic;
+    font-weight: 500; 
+    font-size: x-large;
+    letter-spacing: 0.1rem;
+}
+#hero {
+    width: 100%;
+    height: 600px;
+  background: url("../images/Bocadesa.png") no-repeat center center / cover;
+  background-position: bottom center;
+  display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+#hero figure {
+    max-width:300px;
+    margin: 0 auto;
+    text-align: center;
+}
+.blockquote {
+    background-color: rgba(13, 6, 6, 0.5);
+     
+}
+#circle img {
+    /* max-width: 220px; */
+    width:100%;
     
+    
+  
+
 }
