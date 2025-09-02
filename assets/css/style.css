@@ -57,11 +57,43 @@ body {
     background-color: rgba(13, 6, 6, 0.5);
      
 }
-#circle img {
-    /* max-width: 220px; */
-    width:100%;
+#question {
+    max-width: 320px;
+ 
     
     
-  
 
 }
+
+/* directories */
+
+.card-title {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+
+
+@media screen and (min-width: 768px) {
+    
+#question {
+    max-width: 20rem;
+    
+}
+/* objections text */
+#left {
+    text-align: left;
+}
+#right {
+    text-align: right;
+}
+/* cards */
+.card {
+    max-width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+ 
+
+
