@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
 
+
 :root{
 --primary-color: #410403;
 --secondary-color: #e7c18a;
@@ -9,10 +10,10 @@
 
 
 /* visualisation not part of the design */
-/* .container {
+.container {
     border: 1px solid black;
-    background-color: lightgray; */
-
+    background-color: lightgray;
+}
 /* Global styles */
 
 body {
@@ -50,6 +51,7 @@ h5 {
 }
 
 
+
 #hero {
     width: 100%;
     height: 37.5rem;
@@ -81,6 +83,10 @@ h5 {
 .card-title {
     font-weight: 600;
     font-size: 1.5rem;
+}
+/* destinations cards */
+.card {
+    box-shadow: 3px 5px 5px rgba(76, 73, 73, 0.5);
 }
 
 /* footer */
