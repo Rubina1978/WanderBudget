@@ -18,6 +18,7 @@
 
 body {
     font-family: var(--primary-font);
+    padding-top: 50px;
 }
 h1,
 h2,
@@ -78,6 +79,7 @@ h5 {
 
 }
 
+
 /* directories */
 
 .card-title {
@@ -109,6 +111,19 @@ footer {
 #socials i {
     margin-right: 5px;
     color: var(--secondary-color);
+}
+
+/* ignite the wanderlus */
+#intro img {
+    max-height: 30rem;
+}
+#tips ol {
+    margin: 0.5rem;
+    line-height: 2rem;
+    
+}
+#tips ol a {
+    text-decoration: none;
 }
 
 
