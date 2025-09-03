@@ -9,10 +9,10 @@
 
 
 /* visualisation not part of the design */
-.container {
+/* .container {
     border: 1px solid black;
-    background-color: lightgray;
-}
+    background-color: lightgray; */
+
 /* Global styles */
 
 body {
@@ -83,7 +83,29 @@ h5 {
     font-size: 1.5rem;
 }
 
-/* destination cards */
+/* footer */
+footer {
+    background-color: var(--primary-color);
+    
+}
+#contact h2{
+    color: white;
+    
+}
+#contact h3 {
+    color: white;
+}
+#socials {
+    font-size: 1.5rem;
+   
+}
+
+#socials i {
+    margin-right: 5px;
+    color: var(--secondary-color);
+}
+
+
 
 
 @media screen and (min-width: 768px) {
