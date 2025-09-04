@@ -23,6 +23,7 @@ body {
 h1,
 h2,
 h3, 
+h4,
 h5{
     font-family: var(--secondary-font);
     font-style: italic;
@@ -119,13 +120,15 @@ footer {
 }
 #tips ol {
     margin: 0.5rem;
-    line-height: 2rem;
+    line-height: 2.5rem;
     
 }
 #tips ol a {
     text-decoration: none;
 }
-
+article {
+    margin-bottom: 4rem;
+}
 
 
 
