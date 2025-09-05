@@ -10,17 +10,17 @@
 
 
 /* visualisation not part of the design */
-.container {
+/* .container {
     border: 1px solid black;
     background-color: lightgray;
-}
+} */
 /* Global styles */
 
 
 
 body {
     font-family: var(--primary-font);
-    padding-top: 40px;
+    padding-top: 60px;
 }
 h1,
 h2,
@@ -30,7 +30,8 @@ h5{
     font-family: var(--secondary-font);
     font-style: italic;
     font-weight: 700;
-    color: var(--primary-color)
+    color: var(--primary-color);
+    
 }
 
 h5 {
@@ -46,10 +47,13 @@ h5 {
     font-size: x-large;
     letter-spacing: 0.2rem;
     
+    
 }
+
 .dropdown-menu {
     background-color: var(--primary-color);
     border: var(--primary-color);
+    font-size: 1.5rem;
 }
 
 .navbar-brand {
@@ -57,6 +61,7 @@ h5 {
     font-size: x-large;
     letter-spacing: 0.2rem;
 }
+
 /* to make sure screen scroll exacly at the title of article linked to a specific li */
 html {
     scroll-behavior: smooth;
@@ -95,12 +100,35 @@ html {
 /* directories */
 
 .card-title {
-    font-weight: 600;
+    font-weight: 800;
     font-size: 1.5rem;
+
 }
 /* destinations cards */
 .card {
-    box-shadow: 3px 5px 5px rgba(76, 73, 73, 0.5);
+    box-shadow: 6px 6px 6px rgba(76, 73, 73, 0.5);
+}
+ .custom-button-outline {
+    color: var(--primary-color);
+    border: 3px solid var(--primary-color);
+    font-weight: 700;
+   
+    
+}
+.custom-button-outline:hover {
+    background-color: var(--secondary-color);
+}
+.custom-button-filled {
+    background-color: var(--primary-color);
+    color:white;
+    display: flex;
+    align-items: flex-end;
+    font-weight: 700;
+}
+
+.custom-button-filled:hover {
+    background-color: var(--secondary-color);
+    color: var(--primary-color)
 }
 
 /* footer */
@@ -111,6 +139,18 @@ footer {
 #contact h2{
     color: white;
     
+}
+#contact .custom-button-filled{
+    background-color: var(--secondary-color);
+    display: flex;
+    justify-self: center;
+    padding: 3px;
+    color: var(--primary-color);
+}
+#contact .custom-button-filled:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: var(--primary-color);
+    color:var(--secondary-color)
 }
 #contact h3 {
     color: white;
@@ -125,7 +165,7 @@ footer {
     color: var(--secondary-color);
 }
 
-/* ignite the wanderlus */
+/* ignite the wanderlust */
 #intro img {
     max-height: 30rem;
 }
@@ -163,6 +203,7 @@ article {
 
 
 }
+
  
 
 
