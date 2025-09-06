@@ -203,7 +203,11 @@ article {
     line-height: 2.5rem;
 }
 
-
+/* planning trip */
+#steps ol {
+    line-height: 2rem;
+    font-weight: 700;
+}
 
 
 @media screen and (min-width: 768px) {
@@ -221,6 +225,11 @@ article {
 }
 #money ol {
     line-height: 1.5rem;
+    
+}
+#eiffel {
+    
+    height: 270px;
     
 }
 }
