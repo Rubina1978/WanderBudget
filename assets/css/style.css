@@ -10,10 +10,10 @@
 
 
 /* visualisation not part of the design */
-.container {
+/* .container {
     border: 1px solid black;
     background-color: lightgray;
-}
+} */
 /* Global styles */
 
 
@@ -21,6 +21,7 @@
 body {
     font-family: var(--primary-font);
     padding-top: 60px;
+    padding-bottom: 150px;
 }
 h1,
 h2,
@@ -70,15 +71,19 @@ html {
       scroll-margin-top: 80px;
 }
 
+[id] {
+  scroll-margin-top: 80px; 
+}
+
 #hero {
     width: 100%;
     height: 37.5rem;
-  background: url("../images/Bocadesa.png") no-repeat center center / cover;
-  background-position: bottom center;
-  display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
+    background: url("../images/Bocadesa.png") no-repeat center center / cover;
+    background-position: bottom center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 #hero figure {
@@ -144,7 +149,6 @@ footer {
     background-color: var(--secondary-color);
     display: flex;
     justify-self: center;
-    padding: 3px;
     color: var(--primary-color);
 }
 #contact .custom-button-filled:hover {
@@ -170,7 +174,7 @@ footer {
     max-height: 30rem;
 }
 #tips ol {
-    margin: 1.5rem;
+    margin: 1.2rem;
     line-height: 2.5rem;
     font-weight: 700;
     color: rgb(85, 122, 245);
@@ -183,15 +187,16 @@ footer {
 }
 article {
     margin-bottom: 2.5rem;
+    scroll-margin-top: 68px
 }
 
 /* how to save money */
-#money-pig {
-    max-width: 350px;
-    max-height: 350px;
-    display: flex;
-    justify-self: center;
+
+
+#money ol {
+    line-height: 2.5rem;
 }
+
 
 
 
@@ -208,10 +213,20 @@ article {
 #right {
     text-align: right;
 }
-
-
+#money ol {
+    line-height: 1.5rem;
+    
+}
 }
 
- 
+@media screen and (min-width: 992px){
+    #money ol {
+        line-height: 3rem;
+    }
+    
+}
+
+    
+
 
 
