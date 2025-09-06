@@ -21,7 +21,7 @@
 body {
     font-family: var(--primary-font);
     padding-top: 60px;
-    padding-bottom: 150px;
+    
 }
 h1,
 h2,
@@ -66,13 +66,14 @@ h5 {
 /* to make sure screen scroll exacly at the title of article linked to a specific li */
 html {
     scroll-behavior: smooth;
+    scroll-padding-top: 30px;
 }
 :target {
-      scroll-margin-top: 80px;
+      scroll-margin-top: 40px;
 }
 
 [id] {
-  scroll-margin-top: 80px; 
+  scroll-margin-top: 40px; 
 }
 
 #hero {
@@ -93,8 +94,10 @@ html {
 }
 .blockquote {
     background-color: rgba(13, 6, 6, 0.5);
-     
+    font-size: x-large;
+    font-weight: 600;  
 }
+
 #question {
     max-width: 20rem;
     height: 250px;
@@ -113,6 +116,7 @@ html {
 .card {
     box-shadow: 6px 6px 6px rgba(76, 73, 73, 0.5);
 }
+/* buttons */
  .custom-button-outline {
     color: var(--primary-color);
     border: 3px solid var(--primary-color);
@@ -122,6 +126,7 @@ html {
 }
 .custom-button-outline:hover {
     background-color: var(--secondary-color);
+    transition: 0.3s ease-in-out;
 }
 .custom-button-filled {
     background-color: var(--primary-color);
@@ -133,7 +138,8 @@ html {
 
 .custom-button-filled:hover {
     background-color: var(--secondary-color);
-    color: var(--primary-color)
+    color: var(--primary-color);
+    transition: 0.3s ease-in-out;
 }
 
 /* footer */
@@ -223,7 +229,7 @@ article {
     #money ol {
         line-height: 3rem;
     }
-    
+  
 }
 
     
