@@ -95,22 +95,26 @@ html {
 }
 .blockquote {
     background-color: rgba(13, 6, 6, 0.5);
-    font-size: x-large;
+    font-size: large;
     font-weight: 600;  
 }
 
 #question {
     max-width: 20rem;
-    height: 250px;
+    max-height: 300px;
 
+}
+#left, #right {
+    line-height: 2.5rem;
+    font-weight: 600;
 }
 
 
 /* directories */
 
 .card-title {
-    font-weight: 800;
-    font-size: 1.5rem;
+    font-weight: 700;
+    font-size: 1.8rem;
 
 }
 /* destinations cards */
@@ -147,8 +151,15 @@ html {
 #intro img {
     max-height: 30rem;
 }
+
+.carousel-item img {
+height: 300px; 
+object-fit: cover;
+
+}
+
 #tips ol {
-    margin: 1.2rem;
+    
     line-height: 2.5rem;
     font-weight: 700;
     color: rgb(85, 122, 245);
@@ -179,6 +190,9 @@ article {
     text-decoration: none;
    
 }
+
+
+
 
 
 
@@ -221,18 +235,21 @@ footer {
 @media screen and (min-width: 768px) {
     
 #question {
-    max-width: 20rem;
+    max-width: 15rem;
+    
     
 }
 /* objections text */
 #left {
     text-align: left;
+    line-height: 1.5rem;
 }
 #right {
     text-align: right;
+    line-height: 1.5rem;
 }
 #money ol {
-    line-height: 1.5rem;
+    line-height: 2rem;
     
 }
 #eiffel {
@@ -240,16 +257,21 @@ footer {
     height: 270px;
     
 }
+.carousel-item img {
+max-height: 220px;
+
+}
 }
 
 @media screen and (min-width: 992px){
     #money ol {
         line-height: 3rem;
     }
-  
+  .carousel-item img {
+max-height: 400px;
 }
 
-    
+}    
 
 
 
