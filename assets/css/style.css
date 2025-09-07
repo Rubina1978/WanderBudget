@@ -191,7 +191,11 @@ article {
    
 }
 
-
+/* ways to get cheap flight */
+#flights {
+    line-height: 2rem;
+    font-weight: 700;
+}
 
 
 
