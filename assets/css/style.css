@@ -23,6 +23,7 @@ body {
     padding-top: 60px;
     
 }
+
 h1,
 h2,
 h3, 
@@ -142,39 +143,6 @@ html {
     transition: 0.3s ease-in-out;
 }
 
-/* footer */
-footer {
-    background-color: var(--primary-color);
-    
-}
-#contact h2{
-    color: white;
-    
-}
-#contact .custom-button-filled{
-    background-color: var(--secondary-color);
-    display: flex;
-    justify-self: center;
-    color: var(--primary-color);
-}
-#contact .custom-button-filled:hover {
-    border: 2px solid var(--secondary-color);
-    background-color: var(--primary-color);
-    color:var(--secondary-color)
-}
-#contact h3 {
-    color: white;
-}
-#socials {
-    font-size: 1.5rem;
-   
-}
-
-#socials i {
-    margin-right: 5px;
-    color: var(--secondary-color);
-}
-
 /* ignite the wanderlust */
 #intro img {
     max-height: 30rem;
@@ -197,8 +165,6 @@ article {
 }
 
 /* how to save money */
-
-
 #money ol {
     line-height: 2.5rem;
 }
@@ -207,7 +173,49 @@ article {
 #steps ol {
     line-height: 2rem;
     font-weight: 700;
+
 }
+#planning a {
+    text-decoration: none;
+   
+}
+
+
+
+/* footer */
+footer {
+    background-color: var(--primary-color);
+    
+}
+#contact h2{
+    color: white;
+    
+}
+#contact .custom-button-filled{
+    background-color: var(--secondary-color);
+    display: flex;
+    justify-self: center;
+    color: var(--primary-color);
+}
+#contact .custom-button-filled:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: var(--primary-color);
+    color:var(--secondary-color)
+}
+
+#contact h3 {
+    color: white;
+}
+#socials {
+    font-size: 1.5rem;
+   
+}
+
+#socials i {
+    margin-right: 5px;
+    color: var(--secondary-color);
+}
+
 
 
 @media screen and (min-width: 768px) {
