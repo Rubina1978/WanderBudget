@@ -192,12 +192,20 @@ article {
 }
 
 /* ways to get cheap flight */
-#flights {
-    line-height: 2rem;
+#flights li {
+    line-height: 2.5rem;
     font-weight: 700;
+    font-size: 1.2rem;
 }
 
-
+.search-engines a {
+    text-decoration: none;
+   
+}
+.page-img {
+    max-height: 350px;
+    max-width: 550px;
+}
 
 
 /* footer */
