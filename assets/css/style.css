@@ -39,6 +39,9 @@ h5{
 h5 {
     font-weight: 800;
 }
+img {
+    object-fit: cover;
+}
 /* navigation */
 .navbar {
     background-color: var(--primary-color);
