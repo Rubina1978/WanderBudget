@@ -200,7 +200,9 @@ article {
   font-weight: 700;
   font-size: 1.2rem;
 }
-
+article p {
+    text-align: justify;
+}
 .search-engines a {
   text-decoration: none;
 }
