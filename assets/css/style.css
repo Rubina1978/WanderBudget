@@ -195,8 +195,8 @@ article {
 }
 
 /* ways to get cheap flight */
-#flights li {
-  line-height: 2.5rem;
+#flights li, #accommodation li {
+  line-height: 3rem;
   font-weight: 700;
   font-size: 1.2rem;
 }
@@ -207,8 +207,8 @@ article p {
   text-decoration: none;
 }
 .page-img {
-  max-height: 350px;
-  max-width: 450px;
+  max-height: 320px;
+  
 }
 
 
