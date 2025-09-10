@@ -141,10 +141,11 @@ html {
 /* buttons */
 .custom-button-outline {
   color: var(--primary-color);
-  border: 3px solid var(--primary-color);
+  border: 2px solid var(--primary-color);
   font-weight: 700;
 }
 .custom-button-outline:hover {
+  border: 2px solid var(--primary-color);
   background-color: var(--secondary-color);
   transition: 0.3s ease-in-out;
 }
@@ -172,18 +173,27 @@ html {
   object-fit: cover;
 }
 
-#tips ol, #money ol, #steps ol, #accommodation ol {
+#tips li, #money li, #steps li{
   line-height: 2.5rem;
   font-weight: 700;
   color: rgb(85, 122, 245);
 }
-#tips ol a, #steps ol a {
+
+#accommodation ul li, #flights ul li {
+line-height: 3rem;
+  font-weight: 700;
+  font-size: 1.3rem;
+  
+}
+#tips a, #steps  a, #money a {
   text-decoration: none;
   font-weight: 700;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 
-#planning a {
+
+
+a {
   text-decoration: none;
 } 
 
@@ -202,10 +212,7 @@ article {
 .search-engines a {
   text-decoration: none;
 }
-.page-img {
-  max-height: 350px;
-  
-}
+
 
 
 /* footer */
