@@ -37,6 +37,13 @@ img {
   object-fit: cover;
 }
 
+article p {
+    text-align: justify;
+    /* to avoid big gaps between words */
+    hyphens: auto;
+    word-spacing: 0.05em;
+}
+
 /* navigation */
 .navbar {
   background-color: var(--primary-color);
@@ -165,7 +172,7 @@ html {
   object-fit: cover;
 }
 
-#tips ol {
+#tips ol, #money ol, #steps ol, #accommodation ol {
   line-height: 2.5rem;
   font-weight: 700;
   color: rgb(85, 122, 245);
@@ -175,23 +182,14 @@ html {
   font-weight: 700;
   font-size: 1.1rem;
 }
+
+#planning a {
+  text-decoration: none;
+} 
+
 article {
   margin-bottom: 2.5rem;
   scroll-margin-top: 68px;
-}
-
-/* how to save money */
-#money ol {
-  line-height: 2.5rem;
-}
-
-/* planning trip */
-#steps ol {
-  line-height: 2rem;
-  font-weight: 700;
-}
-#planning a {
-  text-decoration: none;
 }
 
 /* ways to get cheap flight */
@@ -200,14 +198,12 @@ article {
   font-weight: 700;
   font-size: 1.2rem;
 }
-article p {
-    text-align: justify;
-}
+
 .search-engines a {
   text-decoration: none;
 }
 .page-img {
-  max-height: 320px;
+  max-height: 350px;
   
 }
 
