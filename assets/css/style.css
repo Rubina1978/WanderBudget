@@ -41,7 +41,8 @@ article p {
     text-align: justify;
     /* to avoid big gaps between words */
     hyphens: auto;
-    word-spacing: 0.05em;
+    word-spacing: 0.02em;
+    
 }
 
 /* navigation */
