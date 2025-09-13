@@ -187,8 +187,8 @@ html {
   color: rgb(85, 122, 245);
 }
 
-#accommodation ul li, #flights ul li {
-line-height: 3rem;
+#accommodation ul li, #flights ul li, #activities {
+line-height: 2.5rem;
   font-weight: 700;
   font-size: 1.3rem;
   
