@@ -56,6 +56,11 @@ article p {
   font-size: x-large;
   letter-spacing: 0.2rem;
 }
+header {
+  background-color: #ffff; /* your custom color */
+  color: var(--primary-color);
+  font-weight: 700;
+}
 
 .dropdown-menu {
   background-color: var(--primary-color);
