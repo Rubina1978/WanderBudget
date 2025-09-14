@@ -61,7 +61,9 @@ header {
   color: var(--primary-color);
   font-weight: 700;
 }
-
+.custom-card{
+  background-color: 	#fff9e6
+}
 .dropdown-menu {
   background-color: var(--primary-color);
   border: var(--primary-color);
