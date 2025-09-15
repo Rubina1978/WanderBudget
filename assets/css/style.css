@@ -189,12 +189,15 @@ html {
   color: rgb(85, 122, 245);
 }
 
-#accommodation ul li, #flights ul li, #activities {
-line-height: 2.5rem;
+#accommodation ul li, #flights ul li, #activities ul li {
+line-height: 3rem;
   font-weight: 700;
   font-size: 1.3rem;
+  list-style: none;
   
 }
+
+
 #tips a, #steps  a, #money a {
   text-decoration: none;
   font-weight: 700;
@@ -282,9 +285,7 @@ footer {
   #money ol {
     line-height: 2rem;
   }
-  #eiffel {
-    height: 270px;
-  }
+  
   .carousel-item img {
     max-height: 220px;
   }
