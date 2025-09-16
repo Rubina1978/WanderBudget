@@ -183,7 +183,7 @@ html {
   object-fit: cover;
 }
 
-#tips li, #money li, #steps li{
+#tips ol li, #money ol li, #steps ol li{
   line-height: 2.5rem;
   font-weight: 700;
   color: rgb(85, 122, 245);
@@ -285,18 +285,11 @@ footer {
   #money ol {
     line-height: 2rem;
   }
-  
-  .carousel-item img {
-    max-height: 220px;
-  }
+   
 }
-
 @media screen and (min-width: 992px) {
   #money ol {
     line-height: 3rem;
-  }
-  .carousel-item img {
-    max-height: 400px;
   }
   
 }
