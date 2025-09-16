@@ -201,7 +201,7 @@ line-height: 3rem;
 #tips a, #steps  a, #money a {
   text-decoration: none;
   font-weight: 700;
-  font-size: 1.2rem;
+  /* font-size: 1.2rem; */
 }
 
 
@@ -293,3 +293,4 @@ footer {
   }
   
 }
+
