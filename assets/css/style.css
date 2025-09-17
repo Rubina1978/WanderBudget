@@ -105,23 +105,18 @@ html {
   margin: 0 auto;
   text-align: center;
 }
-.blockquote {
+.blockquote, .blockquote-footer {
   background-color: rgba(13, 6, 6, 0.5);
   font-size: large;
   font-weight: 600;
 }
-
-#question {
-  max-width: 20rem;
-  max-height: 300px;
-}
-#left,
-#right {
-  line-height: 2.5rem;
-  font-weight: 600;
+.objections {
+  font-size: 1.2rem;
 }
 
-
+.lead {
+  font-weight: 400;
+}
 /* directories */
 
 .card-title {
@@ -204,8 +199,6 @@ line-height: 3rem;
   /* font-size: 1.2rem; */
 }
 
-
-
 a {
   text-decoration: none;
 } 
@@ -255,7 +248,7 @@ footer {
   color: white;
 }
 #socials {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 
 #socials i {
@@ -273,15 +266,8 @@ footer {
     max-width: 15rem;
   }
 
-  /* objections text */
-  #left {
-    text-align: left;
-    line-height: 1.5rem;
-  }
-  #right {
-    text-align: right;
-    line-height: 1.5rem;
-  }
+ 
+
   #money ol {
     line-height: 2rem;
   }
@@ -290,6 +276,10 @@ footer {
 @media screen and (min-width: 992px) {
   #money ol {
     line-height: 3rem;
+  }
+/* objection text */
+  .objections{
+      line-height: 2rem;
   }
   
 }
