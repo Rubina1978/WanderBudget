@@ -268,10 +268,11 @@ footer {
 }
 #socials {
   font-size: 1.8rem;
+  
 }
 
 #socials i {
-  margin-right: 5px;
+  margin-right: 4px;
   color: var(--secondary-color);
 }
 
@@ -302,4 +303,5 @@ footer {
   }
   
 }
+
 
