@@ -226,6 +226,13 @@ article {
 }
 /* contact form */
 
+form {
+  padding: 1.5rem;
+  background: #fff9e6;
+  box-shadow: 0 0 5px 6px  rgba(76, 73, 73, 0.4);
+  border-radius: 5px;
+  position: relative;
+}
 
 .form-control:focus {
   border-color: 1px solid var(--primary-color);
