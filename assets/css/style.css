@@ -76,6 +76,10 @@ header {
   letter-spacing: 0.2rem;
 }
 
+.dropdown-menu li {
+  margin-bottom: 1.5rem;
+}
+
 /* to make sure screen scroll exacly at the title of article linked to a specific li */
 html {
   scroll-behavior: smooth;
