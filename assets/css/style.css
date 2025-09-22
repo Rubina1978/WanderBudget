@@ -93,6 +93,11 @@ html {
   scroll-margin-top: 40px;
 }
 
+article {
+  margin-bottom: 2.5rem;
+  scroll-margin-top: 68px;
+}
+/* index page */
 #hero {
   width: 100%;
   height: 37.5rem;
@@ -187,30 +192,18 @@ html {
   font-weight: 700;
   color: rgb(85, 122, 245);
 }
-
-#accommodation ul li, #flights ul li, #activities ul li {
-line-height: 3rem;
+/* internal links */
+#accommodation ul li, #flights ul li, #activities ul li, #Europe ul li {
+  line-height: 3rem;
   font-weight: 700;
   font-size: 1.3rem;
   list-style: none;
-  
-}
-
-
-#tips a, #steps  a, #money a {
-  text-decoration: none;
-  font-weight: 700;
-
 }
 
 a {
   text-decoration: none;
+  
 } 
-
-article {
-  margin-bottom: 2.5rem;
-  scroll-margin-top: 68px;
-}
 
 /* ways to get cheap flight */
 #flights li, #accommodation li {
@@ -228,6 +221,13 @@ article {
   font-weight: 500;
   
 }
+
+/* europe */
+
+#city img {
+  max-height: 30rem;
+}
+
 /* contact form */
 
 form {
