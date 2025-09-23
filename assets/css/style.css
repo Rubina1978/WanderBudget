@@ -224,7 +224,10 @@ a {
 
 /* europe */
 
-#europe-ideas img {
+  #europe-cities img{
+  max-height: 30rem;
+}
+ #europe-ideas img{
   max-height: 30rem;
 }
 
