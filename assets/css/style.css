@@ -199,25 +199,31 @@ article {
   color: rgb(85, 122, 245);
 }
 /* internal links */
-#accommodation ul li, #flights ul li, #activities ul li, #Europe ul li {
+#accommodation li, 
+#flights li,
+#activities li,
+#Europe li,
+#america li {
   line-height: 3rem;
   font-weight: 700;
   font-size: 1.3rem;
-  list-style: none;
+  list-style: none; 
 }
 
 a {
-  text-decoration: none;
-  
+  text-decoration: none; 
 } 
-
-/* ways to get cheap flight */
-#flights li, #accommodation li {
-  line-height: 3rem;
-  font-weight: 700;
-  font-size: 1.2rem;
+ul, 
+ol {
+  padding-left: 0;
 }
 
+ol li {
+  margin-left: 20px;
+}
+
+
+/* ways to get cheap flight */
 .search-engines a {
   text-decoration: none;
 }
@@ -228,17 +234,20 @@ a {
   
 }
 
-/* europe */
+/* europe and america*/
 
-  #europe-cities img{
+  #europe-cities img,
+  #europe-ideas img,
+  #europe-nature img,
+  #get-around img
+   {
   max-height: 30rem;
 }
- #europe-ideas img{
+
+#american-ideas img {
   max-height: 30rem;
 }
-#europe-nature img {
-  max-height: 30rem;
-}
+
 
 /* contact form */
 
