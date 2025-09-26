@@ -7,13 +7,6 @@
   --secondary-font: "Playfair", sans-serif;
 }
 
-/* visualisation not part of the design */
-/* .container {
-    border: 1px solid black;
-    background-color: lightgray;
-} */
-/* Global styles */
-
 body {
   font-family: var(--primary-font);
   padding-top: 60px;
