@@ -153,10 +153,15 @@ article {
 }
 
 .venere .card-img-top,
-.granada .card-img-top,
-.dublin .card-img-top {
-  height:250px;
+.dublin .card-img-top,
+.alhambra .card-img-top {
+/* .granada .card-img-top { */
+  min-height:240px;
+  object-fit: cover;
 }
+
+
+
 /* buttons */
 .custom-button-outline {
   color: var(--primary-color);
@@ -244,7 +249,8 @@ ol li {
   max-height: 30rem;
 }
 
-#american-ideas img {
+#american-ideas img,
+#roadtrip img {
   max-height: 30rem;
 }
 
@@ -311,14 +317,14 @@ footer {
   #question {
     max-width: 15rem;
   }
-
  
-
+}
+ 
   #money ol {
     line-height: 2rem;
   }
    
-}
+
 @media screen and (min-width: 992px) {
   #money ol {
     line-height: 3rem;
