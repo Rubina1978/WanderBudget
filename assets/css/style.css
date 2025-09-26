@@ -266,7 +266,7 @@ form {
 }
 
 .form-control:focus {
-  border-color: 1px solid var(--primary-color);
+  border: 1px solid var(--primary-color);
   outline: 0 none;
   box-shadow: 0 0 0 3px  var(--secondary-color);
 }
