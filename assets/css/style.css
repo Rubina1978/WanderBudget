@@ -148,7 +148,6 @@ article {
 .venere .card-img-top,
 .dublin .card-img-top,
 .alhambra .card-img-top {
-/* .granada .card-img-top { */
   min-height:240px;
   object-fit: cover;
 }
