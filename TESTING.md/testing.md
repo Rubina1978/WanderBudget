@@ -3,36 +3,9 @@
 > [!NOTE]  
 > Return back to the [README.md](README.md) file.
 
-⚠️ INSTRUCTIONS ⚠️
-
-In the following sections, you need to convince the assessors that you have conducted enough manual testing to legitimately believe that the site works well. Essentially, in this part, you should go over all of your project's features, and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-⚠️ --- END --- ⚠️
-
 ## Code Validation
 
-⚠️ INSTRUCTIONS ⚠️
-
-Use the space below to discuss code validation for all of your own code files (*where applicable*). You are not required to validate external libraries/frameworks.
-
-**MANDATORY**: You must provide a screenshot for each file you validate.
-
-**PRO TIP**: Where possible, always validate the live URL pages/files, not your local code using copy/paste. There could be subtle/hidden differences.
-
-⚠️ --- END --- ⚠️
-
 ### HTML
-
-⚠️ INSTRUCTIONS ⚠️
-
-1. [*recommended*] If you are using the live deployed site URLs, validate using this link: https://validator.w3.org/#validate_by_uri
-2. Otherwise, if you are copying/pasting your HTML code manually, use this link: https://validator.w3.org/#validate_by_input
-
-It's recommended to validate the live pages (all of them) using the deployed URL. This will give you a custom URL as well, which you can use below on your testing documentation. It makes it easier to return back to a page for validating it again in the future. The URL will look something like this:
-
-- https://validator.w3.org/nu/?doc=https://Rubina1978.github.io/WanderBudget/index.html
-
-⚠️ --- END --- ⚠️
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
@@ -41,42 +14,24 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 |  | [404-page.html](https://github.com/Rubina1978/WanderBudget/blob/main/404-page.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/404-page.html) | ![screenshot](documentation/screenshot-no-error-on-404-error-page.png) |
 |  | [contact-us.html](https://rubina1978.github.io/WanderBudget/contact-us.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/contact-us.html) | ![screenshot](documentation/screenshot-no-error-on-contact-us-page.png) |
 |  | [europe.html](https://rubina1978.github.io/WanderBudget/europe.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/europe.html) | ![screenshot](documentation/screenshot-no-error-europe-page.png) |
-|  | [ignite-the-wanderlust.html](https://rubina1978.github.io/WanderBudget/ignite-the-wanderlust.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/ignite-the-wanderlust.html) | ![screenshot](documentation/validation/html--ignite-the-wanderlust.png) | ⚠️ Notes (if applicable) |
-|  | [index.html](https://github.com/Rubina1978/WanderBudget/blob/main/index.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/index.html) | ![screenshot](documentation/validation/html--index.png) | ⚠️ Notes (if applicable) |
-|  | [make-the-most-of-it.html](https://github.com/Rubina1978/WanderBudget/blob/main/make-the-most-of-it.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/make-the-most-of-it.html) | ![screenshot](documentation/validation/html--make-the-most-of-it.png) | ⚠️ Notes (if applicable) |
-|  | [north-america.html](https://github.com/Rubina1978/WanderBudget/blob/main/north-america.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/north-america.html) | ![screenshot](documentation/validation/html--north-america.png) | ⚠️ Notes (if applicable) |
-|  | [plan-your-trip.html](https://github.com/Rubina1978/WanderBudget/blob/main/plan-your-trip.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/plan-your-trip.html) | ![screenshot](documentation/validation/html--plan-your-trip.png) | ⚠️ Notes (if applicable) |
-|  | [success.html](https://github.com/Rubina1978/WanderBudget/blob/main/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/success.html) | ![screenshot](documentation/validation/html--success.png) | ⚠️ Notes (if applicable) |
-|  | [ways-to-get-cheap-accommodation.html](https://github.com/Rubina1978/WanderBudget/blob/main/ways-to-get-cheap-accommodation.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/ways-to-get-cheap-accommodation.html) | ![screenshot](documentation/validation/html--ways-to-get-cheap-accommodation.png) | ⚠️ Notes (if applicable) |
-|  | [ways-to-get-cheap-flights.html](https://github.com/Rubina1978/WanderBudget/blob/main/ways-to-get-cheap-flights.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/ways-to-get-cheap-flights.html) | ![screenshot](documentation/validation/html--ways-to-get-cheap-flights.png) | ⚠️ Notes (if applicable) |
-|  | [ways-to-save-for-travel.html](https://github.com/Rubina1978/WanderBudget/blob/main/ways-to-save-for-travel.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/ways-to-save-for-travel.html) | ![screenshot](documentation/validation/html--ways-to-save-for-travel.png) | ⚠️ Notes (if applicable) |
+|  | [ignite-the-wanderlust.html](https://rubina1978.github.io/WanderBudget/ignite-the-wanderlust.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/ignite-the-wanderlust.html) | ![screenshot](documentation/screenshot-no-errors-on-ignite-the-wanderlust.png) |
+|  | [index.html](https://rubina1978.github.io/WanderBudget/index.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frubina1978.github.io%2FWanderBudget%2Findex.html) | ![screenshot](documentation/screenshot-no-errors-landing-page.png) | 
+|  | [make-the-most-of-it.html](https://github.com/Rubina1978/WanderBudget/blob/main/make-the-most-of-it.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/make-the-most-of-it.html) | ![screenshot](documentation/validation/html--make-the-most-of-it.png) | 
+|  | [north-america.html](https://rubina1978.github.io/WanderBudget/north-america.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/north-america.html) | ![screenshot](documentation/screenshot-no-errors-on-north-america-page.png) | 
+|  | [plan-your-trip.html](https://rubina1978.github.io/WanderBudget/plan-your-trip.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/plan-your-trip.html) | ![screenshot](documentation/screenshot-no-errors-plan-your-trip-page.png) |
+|  | [success.html](https://rubina1978.github.io/WanderBudget/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/success.html) | ![screenshot](documentation/screenshot-no-errors-on-success-page.png) | 
+|  | [ways-to-get-cheap-accommodation.html](https://rubina1978.github.io/WanderBudget/ways-to-get-cheap-accommodation.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/ways-to-get-cheap-accommodation.html) | ![screenshot](documentation/screenshot-ways-to-get-cheap-accommodation.png) |
+|  | [ways-to-get-cheap-flights.html](https://rubina1978.github.io/WanderBudget/ways-to-get-cheap-flights.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/ways-to-get-cheap-flights.html) | ![screenshot](documentation/screenshot-no-errors-ways-to-get-cheap-flights.png) | 
+|  | [ways-to-save-for-travel.html](https://rubina1978.github.io/WanderBudget/ways-to-save-for-travel.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/ways-to-save-for-travel.html) | ![screenshot](documentation/screenshot-no-errors-ways-to-save-for-travel.png) |
 
 
 ### CSS
-
-⚠️ INSTRUCTIONS ⚠️
-
-1. [*recommended*] If you are using the live deployed site, use this link: https://jigsaw.w3.org/css-validator/#validate_by_uri
-2. If you are copying/pasting your CSS code, use this link: https://jigsaw.w3.org/css-validator/#validate_by_input
-
-It's recommended to validate the live site for your primary CSS file on the deployed URL. This will give you a custom URL as well, which you can use below on your testing documentation. It makes it easier to return back to a page for validating it again in the future. The URL will look something like this:
-
-- https://jigsaw.w3.org/css-validator/validator?uri=https://rubina1978.github.io/WanderBudget
-
-If you have additional/multiple CSS files, then individual "[validation by input](https://jigsaw.w3.org/css-validator/#validate_by_input)" is recommended for the extra CSS files.
-
-**IMPORTANT**: Third-Party tools
-
-If you're using external libraries/frameworks (e.g: Bootstrap, Materialize, Font Awesome, etc.), then sometimes the tool will attempt to also validate these, even though it's not part of your own actual code that you wrote. You are not required to validate the external libraries or frameworks!
-
-⚠️ --- END --- ⚠️
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-| assets | [style.css](https://github.com/Rubina1978/WanderBudget/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://rubina1978.github.io/WanderBudget) | ![screenshot](documentation/validation/css-assets-style.png) | ⚠️ Notes (if applicable) |
-
+| assets | [style.css](https://github.com/Rubina1978/WanderBudget/blob/main/assets/css/style.css) | [CSS Validator]( https://jigsaw.w3.org/css-validator/validator?uri=https://rubina1978.github.io/WanderBudget) | ![screenshot](documentation/screenshot-css-validator-no-errors-present.png) |
 
 ## Responsiveness
 
