@@ -31,7 +31,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-| assets | [style.css](https://github.com/Rubina1978/WanderBudget/blob/main/assets/css/style.css) | [CSS Validator]( https://jigsaw.w3.org/css-validator/validator?uri=https://rubina1978.github.io/WanderBudget) | ![screenshot](documentation/screenshot-css-validator-no-errors-present.png) |
+| assets | [style.css](https://github.com/Rubina1978/WanderBudget/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://rubina1978.github.io/WanderBudget) | ![screenshot](documentation/screenshot-css-validator-no-errors-present.png) |
 
 ## Responsiveness
 
@@ -57,11 +57,19 @@ I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/responsiveness/mobile-home.png) | ![screenshot](documentation/responsiveness/tablet-home.png) | ![screenshot](documentation/responsiveness/desktop-home.png) | Works as expected |
-| Gallery | ![screenshot](documentation/responsiveness/mobile-gallery.png) | ![screenshot](documentation/responsiveness/tablet-gallery.png) | ![screenshot](documentation/responsiveness/desktop-gallery.png) | Works as expected |
-| Signup | ![screenshot](documentation/responsiveness/mobile-signup.png) | ![screenshot](documentation/responsiveness/tablet-signup.png) | ![screenshot](documentation/responsiveness/desktop-signup.png) | Works as expected |
-| Confirmation | ![screenshot](documentation/responsiveness/mobile-confirmation.png) | ![screenshot](documentation/responsiveness/tablet-confirmation.png) | ![screenshot](documentation/responsiveness/desktop-confirmation.png) | Works as expected |
-| 404 | ![screenshot](documentation/responsiveness/mobile-404.png) | ![screenshot](documentation/responsiveness/tablet-404.png) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
+| Home | ![screenshot](documentation/responsiveness/responsiveness-mobile-home.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-home.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-home.png) | Works as expected |
+| Ignite the Wanderlust | ![screenshot](documentation/responsiveness/responsiveness-mobile-ignite-the-wanderlust.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ignite-the-wanderlust.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ignite-the-wanderlust.png) | Works as expected |
+| Ways to save for travel | ![screenshot](documentation/responsiveness/responsiveness-mobile-ways-to-save-money.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ways-to-save-money.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ways-to-save-money.png) | Works as expected |
+| Plan your trip | ![screenshot](documentation/responsiveness/responsiveness-mobile-plan-your-trip.pngg) | ![screenshot](documentation/responsiveness/responsiveness-tablet-plan-your-trip.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-plan-your-trip.png) | Works as expected |
+| Ways to get cheap flight |![screenshot](documentation/responsiveness/responsiveness-mobile-ways-to-get-cheap-flights.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ways-to-get-cheap-flights.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ways-to-get-cheap-flights.png) | 
+| Ways to get cheap accommodation | ![screenshot](documentation/responsiveness/responsiveness-mobile-ways-to-get-cheap-accommodation.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ways-to-get-cheap-accommodation.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ways-to-get-cheap-accommodation.png) |
+| Make the Most of it | ![screenshot](documentation/responsiveness\responsiveness-mobile-make-the-most-of-it.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-make-the-most-of-it.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-make-the-most-of-it.png) |
+| Europe | ![screenshot](documentation/responsiveness/responsiveness-mobile-europe.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-europe.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-europe.png) |
+| North America | ![screenshot](documentation/responsiveness/responsiveness-mobile-north-america.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-north-america.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-north-america.png) |
+| Contact us | ![screenshot](documentation/responsiveness/responsiveness-mobile-contact-us.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-contact-us.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-contact-us.png) |
+| 404 | ![screenshot](documentation/responsiveness/responsiveness-mobile-404-error.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-404-error.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-404-error.png) | Works as expected |
+| Success | ![screenshot](documentation/responsiveness/responsiveness-mobile-success.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-success.png) |
+![screenshot](documentation/responsiveness/responsiveness-desktop-success.png) |
 
 ## Browser Compatibility
 
