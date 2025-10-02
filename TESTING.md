@@ -11,12 +11,12 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-|  | [404-page.html](https://github.com/Rubina1978/WanderBudget/blob/main/404-page.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/404-page.html) | ![screenshot](documentation/screenshot-no-error-on-404-error-page.png) |
+|  | [404.html](https://github.com/Rubina1978/WanderBudget/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/404.html) | ![screenshot](documentation/screenshot-no-error-on-404-error-page.png) |
 |  | [contact-us.html](https://rubina1978.github.io/WanderBudget/contact-us.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/contact-us.html) | ![screenshot](documentation/screenshot-no-error-on-contact-us-page.png) |
 |  | [europe.html](https://rubina1978.github.io/WanderBudget/europe.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/europe.html) | ![screenshot](documentation/screenshot-no-error-europe-page.png) |
 |  | [ignite-the-wanderlust.html](https://rubina1978.github.io/WanderBudget/ignite-the-wanderlust.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/ignite-the-wanderlust.html) | ![screenshot](documentation/screenshot-no-errors-on-ignite-the-wanderlust.png) |
 |  | [index.html](https://rubina1978.github.io/WanderBudget/index.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frubina1978.github.io%2FWanderBudget%2Findex.html) | ![screenshot](documentation/screenshot-no-errors-landing-page.png) | 
-|  | [make-the-most-of-it.html](https://github.com/Rubina1978/WanderBudget/blob/main/make-the-most-of-it.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/make-the-most-of-it.html) | ![screenshot](documentation/validation/html--make-the-most-of-it.png) | 
+|  | [make-the-most-of-it.html](https://github.com/Rubina1978/WanderBudget/blob/main/make-the-most-of-it.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/make-the-most-of-it.html) | ![screenshot](documentation/screenshot-no-errors-make-the-most-of-it-page.png) | 
 |  | [north-america.html](https://rubina1978.github.io/WanderBudget/north-america.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/north-america.html) | ![screenshot](documentation/screenshot-no-errors-on-north-america-page.png) | 
 |  | [plan-your-trip.html](https://rubina1978.github.io/WanderBudget/plan-your-trip.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/plan-your-trip.html) | ![screenshot](documentation/screenshot-no-errors-plan-your-trip-page.png) |
 |  | [success.html](https://rubina1978.github.io/WanderBudget/success.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/success.html) | ![screenshot](documentation/screenshot-no-errors-on-success-page.png) | 
@@ -35,24 +35,6 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 ## Responsiveness
 
-⚠️ INSTRUCTIONS ⚠️
-
-Use this space to discuss testing the live/deployed site on various device sizes.
-
-The minimum requirement is to test the following 3 sizes:
-
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of your results, to "prove" that you've actually tested them.
-
-Using the [amiresponsive](http://ami.responsivedesign.is) mockup images (*or similar*) does not meet the requirements. Consider using some of the built-in device sizes from the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well. It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-⚠️ --- END --- ⚠️
-
 I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
@@ -60,16 +42,15 @@ I've tested my deployed project to check for responsiveness issues.
 | Home | ![screenshot](documentation/responsiveness/responsiveness-mobile-home.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-home.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-home.png) | Works as expected |
 | Ignite the Wanderlust | ![screenshot](documentation/responsiveness/responsiveness-mobile-ignite-the-wanderlust.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ignite-the-wanderlust.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ignite-the-wanderlust.png) | Works as expected |
 | Ways to save for travel | ![screenshot](documentation/responsiveness/responsiveness-mobile-ways-to-save-money.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ways-to-save-money.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ways-to-save-money.png) | Works as expected |
-| Plan your trip | ![screenshot](documentation/responsiveness/responsiveness-mobile-plan-your-trip.pngg) | ![screenshot](documentation/responsiveness/responsiveness-tablet-plan-your-trip.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-plan-your-trip.png) | Works as expected |
-| Ways to get cheap flight |![screenshot](documentation/responsiveness/responsiveness-mobile-ways-to-get-cheap-flights.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ways-to-get-cheap-flights.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ways-to-get-cheap-flights.png) | 
-| Ways to get cheap accommodation | ![screenshot](documentation/responsiveness/responsiveness-mobile-ways-to-get-cheap-accommodation.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ways-to-get-cheap-accommodation.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ways-to-get-cheap-accommodation.png) |
-| Make the Most of it | ![screenshot](documentation/responsiveness\responsiveness-mobile-make-the-most-of-it.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-make-the-most-of-it.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-make-the-most-of-it.png) |
-| Europe | ![screenshot](documentation/responsiveness/responsiveness-mobile-europe.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-europe.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-europe.png) |
-| North America | ![screenshot](documentation/responsiveness/responsiveness-mobile-north-america.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-north-america.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-north-america.png) |
-| Contact us | ![screenshot](documentation/responsiveness/responsiveness-mobile-contact-us.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-contact-us.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-contact-us.png) |
+| Plan your trip | ![screenshot](documentation/responsiveness/responsiveness-mobile-plan-your-trip.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-plan-your-trip.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-plan-your-trip.png) | Works as expected |
+| Ways to get cheap flight |![screenshot](documentation/responsiveness/responsiveness-mobile-ways-to-get-cheap-flights.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ways-to-get-cheap-flights.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ways-to-get-cheap-flights.png) | Works as expected |
+| Ways to get cheap accommodation | ![screenshot](documentation/responsiveness/responsiveness-mobile-ways-to-get-cheap-accommodation.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-ways-to-get-cheap-accommodation.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-ways-to-get-cheap-accommodation.png) | Works as expected |
+| Make the Most of it | ![screenshot](documentation/responsiveness/responsiveness-mobile-make-the-most-of-it.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-make-the-most-of-it.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-make-the-most-of-it.png) | Works as expected |
+| Europe | ![screenshot](documentation/responsiveness/responsiveness-mobile-europe.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-europe.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-europe.png) | Works as expected |
+| North America | ![screenshot](documentation/responsiveness/responsiveness-mobile-north-america.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-north-america.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-north-america.png) | Works as expected |
+| Contact us | ![screenshot](documentation/responsiveness/responsiveness-mobile-contact-us.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-contact-us.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-contact-us.png) | Works as expected |
 | 404 | ![screenshot](documentation/responsiveness/responsiveness-mobile-404-error.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-404-error.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-404-error.png) | Works as expected |
-| Success | ![screenshot](documentation/responsiveness/responsiveness-mobile-success.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-success.png) |
-![screenshot](documentation/responsiveness/responsiveness-desktop-success.png) |
+| Success | ![screenshot](documentation/responsiveness/responsiveness-mobile-success.png) | ![screenshot](documentation/responsiveness/responsiveness-tablet-success.png) | ![screenshot](documentation/responsiveness/responsiveness-desktop-success.png) | Works as expected |
 
 ## Browser Compatibility
 
@@ -93,9 +74,9 @@ Please note, there are services out there that can test multiple browser compati
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-| Page | Chrome | Firefox | Safari | Notes |
+| Page | Chrome | Firefox | Edge | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/firefox-home.png) | ![screenshot](documentation/browsers/safari-home.png) | Works as expected |
+| Home | ![screenshot](documentation/browsers/chrome-home.png)  | ![screenshot](documentation/browsers/firefox-home.png) | ![screenshot](documentation/browsers/safari-home.png) | Works as expected |
 | Gallery | ![screenshot](documentation/browsers/chrome-gallery.png) | ![screenshot](documentation/browsers/firefox-gallery.png) | ![screenshot](documentation/browsers/safari-gallery.png) | Works as expected |
 | Signup | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/firefox-signup.png) | ![screenshot](documentation/browsers/safari-signup.png) | Works as expected |
 | Confirmation | ![screenshot](documentation/browsers/chrome-confirmation.png) | ![screenshot](documentation/browsers/firefox-confirmation.png) | ![screenshot](documentation/browsers/safari-confirmation.png) | Works as expected |
