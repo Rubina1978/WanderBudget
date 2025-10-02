@@ -54,33 +54,22 @@ I've tested my deployed project to check for responsiveness issues.
 
 ## Browser Compatibility
 
-⚠️ INSTRUCTIONS ⚠️
-
-Use this space to discuss testing the live/deployed site on various browsers. Consider testing at least 3 different browsers, if available on your system. You DO NOT need to use all of the browsers below, just pick any 3 (minimum).
-
-Recommended browsers to consider:
-- [Chrome](https://www.google.com/chrome)
-- [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer)
-- [Edge](https://www.microsoft.com/edge)
-- [Safari](https://support.apple.com/downloads/safari)
-- [Brave](https://brave.com/download)
-- [Opera](https://www.opera.com/download)
-
-**IMPORTANT**: You must provide screenshots of the browsers you've tested, to "prove" that you've actually tested them.
-
-Please note, there are services out there that can test multiple browser compatibilities at the same time. Some of these are paid services, but some are free. If you use these, you must provide a link to the source used for attribution, and multiple screenshots of the results.
-
-⚠️ --- END --- ⚠️
-
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
 | Page | Chrome | Firefox | Edge | Notes |
 | --- | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/browsers/chrome-home.png)  | ![screenshot](documentation/browsers/firefox-home.png) | ![screenshot](documentation/browsers/safari-home.png) | Works as expected |
-| Gallery | ![screenshot](documentation/browsers/chrome-gallery.png) | ![screenshot](documentation/browsers/firefox-gallery.png) | ![screenshot](documentation/browsers/safari-gallery.png) | Works as expected |
-| Signup | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/firefox-signup.png) | ![screenshot](documentation/browsers/safari-signup.png) | Works as expected |
-| Confirmation | ![screenshot](documentation/browsers/chrome-confirmation.png) | ![screenshot](documentation/browsers/firefox-confirmation.png) | ![screenshot](documentation/browsers/safari-confirmation.png) | Works as expected |
-| 404 | ![screenshot](documentation/browsers/chrome-404.png) | ![screenshot](documentation/browsers/firefox-404.png) | ![screenshot](documentation/browsers/safari-404.png) | Works as expected |
+| Home | ![screenshot](documentation/browsers/chrome-home.png)  | ![screenshot](documentation/browsers/firefox-home.png) | ![screenshot](documentation/browsers/edge-home.png) | Works as expected |
+| Ignite the wanderlust | ![screenshot](documentation/browsers/chrome-ignite-the-wanderlust.png) | ![screenshot](documentation/browsers/firefox-ignite-the-wanderlust.png) | ![screenshot](documentation/browsers/chrome-ignite-the-wanderlust.png) | Works as expected |
+| Ways to save for travel | ![screenshot](documentation/browsers/chrome-ways-to-save-money.png) | ![screenshot](documentation/browsers/firefox-ways-to-save-money.png) | ![screenshot](documentation/browsers/edge-ways-to-save-money.png) | Works as expected |
+| Plan your trip | ![screenshot](documentation/browsers/chrome-plan-your-trip.png) | ![screenshot](documentation/browsers/firefox-plan-your-trip.png) | ![screenshot](documentation/browsers/edge-plan-your-trip.png) | Works as expected |
+| Ways to get cheap flight | ![screenshot](documentation/browsers/chrome-ways-to-get-cheap-flight.png) | ![screenshot](documentation/browsers/firefox-ways-to-get-cheap-flight.png) | ![screenshot](documentation/browsers/edge-ways-to-get-cheap-flight.png) | Works as expected |
+| Ways to get cheap accommodation | ![screenshot](documentation/browsers/chrome-ways-to-get-cheap-accommodation.png) | ![screenshot](documentation/browsers/firefox-ways-to-get-cheap-accommodation.png) | ![screenshot](documentation/browsers/edge-ways-to-get-cheap-accommodation.png) | Works as expected |
+| Make the most of it | ![screenshot](documentation/browsers/chrome-make-the-most-of-it.png) | ![screenshot](documentation/browsers/firefox-make-the-most-of-it.png) | ![screenshot](documentation/browsers/edge-make-the-most-of-it.png) | Works as expected |
+| Europe | ![screenshot](documentation/browsers/chrome-europe.png) | ![screenshot](documentation/browsers/firefox-europe.png) | ![screenshot](documentation/browsers/edge-europe.png) | Works as expected |
+| North America | ![screenshot](documentation/browsers/chrome-america.png) | ![screenshot](documentation/browsers/firefox-america.png) | ![screenshot](documentation/browsers/edge-america.png) | Works as expected |
+| Contact us | ![screenshot](documentation/browsers/chrome-contact-us.png) | ![screenshot](documentation/browsers/firefox-contact-us.png) | ![screenshot](documentation/browsers/edge-contact-us.png) | Works as expected |
+| Success | ![screenshot](documentation/browsers/chrome-success.png) | ![screenshot](documentation/browsers/firefox-success.png) | ![screenshot](documentation/browsers/edge-success.png) | Works as expected |
+| 404 | ![screenshot](documentation/browsers/chrome-404.png) | ![screenshot](documentation/browsers/firefox-404.png) | ![screenshot](documentation/browsers/edge-404.png) | Works as expected |
 
 ## Lighthouse Audit
 
