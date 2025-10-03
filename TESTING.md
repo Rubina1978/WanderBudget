@@ -88,10 +88,17 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Page | Mobile | Desktop |
 | --- | --- | --- |
 | Home | ![screenshot](documentation/lighthouse/mobile-home.png) | ![screenshot](documentation/lighthouse/desktop-home.png) |
-| Gallery | ![screenshot](documentation/lighthouse/mobile-gallery.png) | ![screenshot](documentation/lighthouse/desktop-gallery.png) |
-| Signup | ![screenshot](documentation/lighthouse/mobile-signup.png) | ![screenshot](documentation/lighthouse/desktop-signup.png) |
-| Confirmation | ![screenshot](documentation/lighthouse/mobile-confirmation.png) | ![screenshot](documentation/lighthouse/desktop-confirmation.png) |
-| 404 | ![screenshot](documentation/lighthouse/mobile-404.png) | ![screenshot](documentation/lighthouse/desktop-404.png) |
+| Ignite the wanderlust | ![screenshot](documentation/lighthouse/lighthouse-mobile-ignite-the-wanderlust.png) | ![screenshot](documentation/lighthouse/desktop-gallery.png) |
+| Ways to safe for travel | ![screenshot](documentation/lighthouse/lighthouse-mobile-ways-to-safe-for-travel.png) | ![screenshot](documentation/lighthouse/desktop-signup.png) |
+| Plan your trip | ![screenshot](documentation/lighthouse/lighthouse-mobile-plan-your-trip.png) | ![screenshot](documentation/lighthouse/desktop-confirmation.png) |
+| Ways to get cheap flight | ![screenshot](documentation/lighthouse/lighthouse-mobile-ways-to-get-cheap-flight.png) | ![screenshot]() |
+| Ways to get cheap accommodation| ![screenshot](documentation/lighthouse/lighthouse-mobile-ways-to-get-cheap-accommodation.png) | ![screenshot]() |
+| Make the most of it | ![screenshot](documentation/lighthouse/lighthouse-mobile-make-the-most-of-it.png) | ![screenshot]() |
+| Europe | ![screenshot](documentation/lighthouse/lighthouse-mobile-europe.png) | ![screenshot]() |
+| North America | ![screenshot](documentation/lighthouse/lighthouse-mobile-north-america.png) | ![screenshot]() |
+| Contact us | ![screenshot](documentation/lighthouse/lighthouse-mobile-contact-us.png) | ![screenshot]() |
+| Success | ![screenshot](documentation/lighthouse/lighthouse-mobile-success.png) | ![screenshot]() |
+| 404 | ![screenshot](documentation/lighthouse/lighthouse-mobile-404.png) | ![screenshot](documentation/lighthouse/desktop-404.png) |
 
 ## Defensive Programming
 
