@@ -9,8 +9,8 @@
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-| Directory | File | URL | Screenshot | Notes |
-| --- | --- | --- | --- | --- |
+| Directory | File | URL | Screenshot |
+| --- | --- | --- | --- |
 |  | [404.html](https://github.com/Rubina1978/WanderBudget/blob/main/404.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/404.html) | ![screenshot](documentation/screenshot-no-error-on-404-error-page.png) |
 |  | [contact-us.html](https://rubina1978.github.io/WanderBudget/contact-us.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/contact-us.html) | ![screenshot](documentation/screenshot-no-error-on-contact-us-page.png) |
 |  | [europe.html](https://rubina1978.github.io/WanderBudget/europe.html) | [HTML Validator](https://validator.w3.org/nu/?doc=https://rubina1978.github.io/WanderBudget/europe.html) | ![screenshot](documentation/screenshot-no-error-europe-page.png) |
@@ -92,24 +92,17 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## User Story Testing
 
-⚠️ INSTRUCTIONS ⚠️
-
-Testing User Stories is actually quite simple, once you've already got the stories defined on your README.
-
-Most of your project's **Features** should already align with the **User Stories**, so this should be as simple as creating a table with the User Story, matching with the re-used screenshot from the respective Feature.
-
-⚠️ --- END --- ⚠️
-
 | Target | Expectation | Outcome | Screenshot | 
 | --- | --- | --- | --- | 
-| As a user | I would like to see examples of why I should join | so that I can learn about the club’s mission and purpose before deciding to join. | ![screenshot](documentation/features/feature01.png) |
-| As a user | I would like to view the running schedule/timetable | so that I can decide when to join a session. | ![screenshot](documentation/features/feature02.png) |
-| As a user | I would like to see the details of different running events | so that I can prepare accordingly. | ![screenshot](documentation/features/feature03.png) |
-| As a user | I would like to view a gallery of past events | so that I can see photos of myself and others from previous runs. | ![screenshot](documentation/features/feature04.png) |
-| As a user | I would like to sign up for the running club | so that I can join the community and participate in events. | ![screenshot](documentation/features/feature05.png) |
-| As a user | I would like to follow the club on various platforms (e.g., Instagram, Facebook, Twitter) | so that I can stay updated with club news and events. | ![screenshot](documentation/features/feature06.png) |
-| As a user | I would like the website to be fully responsive | so that I can easily navigate and access information from my phone, tablet, or desktop. | ![screenshot](documentation/features/feature07.png) |
-| As a user | I would like to see a 404 error page if I get lost | so that it's obvious that I've stumbled upon a page that doesn't exist. | ![screenshot](documentation/features/feature08.png) |
+| As a user | I want a clear, user-friendly homepage and navigation, so I can quickly see if the website is providing what I am looking for and easily find relevant information.| Homepage feature clear introductions to the page, common objections and directories to specific pages | ![screenshot](documentation/features/features-homepage.png) |
+| As a user |  I want motivational and informative content with high-quality images and simple explanations.| Each page is formulated in easy to follow, clear and concise, short articles separated by topics to provide information, inspire and motivate without getting user ovewhelmed with large and long articles to read and accompanied with number of images for an inspiration | ![screenshot](documentation/features/features-motivational-informative-content-example.png) |
+| As a user | I would like clear fonts, good contrast, and simple language,so the site is easy to read and navigate. | each content on pages is formulated by distinctive header to each topic and clear font for the content | ![screenshot](documentation/features/screenshot-images-with-text.png) |
+| As a user |  I want clear step-by-step information, so that I don’t feel overwhelmed by planning a trip on my own. | pages are formulated in clear step by step manner for good understanding and following the practice | ![screenshot](documentation/features/features-rolldown-menu-to-specific-pages.png) |
+| As a user | I want tips and resources in one place, so that I don’t spend too much time searching across the internet | Most pages include link cards directing users to relevant third-party resources, allowing easy access to further information or booking options and minimizing time spent searching externally. | ![screenshot](documentation/features/screenshot-cards-linked-to-externals.png) |
+| As a user | I would like to follow WanderBudget on various platforms (e.g., Instagram, Facebook, Twitter), so that I can stay updated with new content and ideas. | Footer section contain links to social media pages and on the top of that user has also an option to get in touch with Wanderbudget via Contact us button leading to Wanderbudger contact form. | ![screenshot](documentation/features/screenshot-footer.png) |
+| As a user | I would like the website to be fully responsive, so that I can easily navigate and access information on the go from my phone or tablet, and from comfort of my home on desktop. | The website is fully responsive on all (devices mobile, tablet and desktop)  | ![screenshot](documentation/screenshot-mockup.png) |
+| As a user | I would like to see a 404 error if something goes wrong,so that it's obvious that I've stumbled upon a page that doesn't exist. | website has custom 404 page to indicate user if something is wrong and does not work | ![screenshot](documentation/features/screenshot-404-page.png) |
+| As a user | I would like to know that my message was sent by seeing a success message, so that i know that the author received it and will be in touch soon. | When user submit form, success page will appear to indicate that message was sent (simulated due to the lack of a database or email system so far) | ![screenshot](documentation/features/screenshot-success-page.png) |
 
 ## Bugs
 
