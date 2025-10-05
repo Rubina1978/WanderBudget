@@ -31,7 +31,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | Directory | File | URL | Screenshot | Notes |
 | --- | --- | --- | --- | --- |
-| assets | [style.css](https://github.com/Rubina1978/WanderBudget/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://rubina1978.github.io/WanderBudget) | ![screenshot](documentation/screenshot-css-validator-no-errors-present.png) |
+| | [style.css](https://github.com/Rubina1978/WanderBudget/blob/main/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https://rubina1978.github.io/WanderBudget) | ![screenshot](documentation/screenshot-css-validator-no-errors-present.png) |
 
 ## Responsiveness
 
@@ -94,15 +94,22 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Target | Expectation | Outcome | Screenshot | 
 | --- | --- | --- | --- | 
-| As a user | I want a clear, user-friendly homepage and navigation, so I can quickly see if the website is providing what I am looking for and easily find relevant information.| Homepage feature clear introductions to the page, common objections and directories to specific pages | ![screenshot](documentation/features/features-homepage.png) |
-| As a user |  I want motivational and informative content with high-quality images and simple explanations.| Each page is formulated in easy to follow, clear and concise, short articles separated by topics to provide information, inspire and motivate without getting user ovewhelmed with large and long articles to read and accompanied with number of images for an inspiration | ![screenshot](documentation/features/features-motivational-informative-content-example.png) |
-| As a user | I would like clear fonts, good contrast, and simple language,so the site is easy to read and navigate. | each content on pages is formulated by distinctive header to each topic and clear font for the content | ![screenshot](documentation/features/screenshot-images-with-text.png) |
-| As a user |  I want clear step-by-step information, so that I don’t feel overwhelmed by planning a trip on my own. | pages are formulated in clear step by step manner for good understanding and following the practice | ![screenshot](documentation/features/features-rolldown-menu-to-specific-pages.png) |
-| As a user | I want tips and resources in one place, so that I don’t spend too much time searching across the internet | Most pages include link cards directing users to relevant third-party resources, allowing easy access to further information or booking options and minimizing time spent searching externally. | ![screenshot](documentation/features/screenshot-cards-linked-to-externals.png) |
-| As a user | I would like to follow WanderBudget on various platforms (e.g., Instagram, Facebook, Twitter), so that I can stay updated with new content and ideas. | Footer section contain links to social media pages and on the top of that user has also an option to get in touch with Wanderbudget via Contact us button leading to Wanderbudger contact form. | ![screenshot](documentation/features/screenshot-footer.png) |
-| As a user | I would like the website to be fully responsive, so that I can easily navigate and access information on the go from my phone or tablet, and from comfort of my home on desktop. | The website is fully responsive on all (devices mobile, tablet and desktop)  | ![screenshot](documentation/screenshot-mockup.png) |
-| As a user | I would like to see a 404 error if something goes wrong,so that it's obvious that I've stumbled upon a page that doesn't exist. | website has custom 404 page to indicate user if something is wrong and does not work | ![screenshot](documentation/features/screenshot-404-page.png) |
-| As a user | I would like to know that my message was sent by seeing a success message, so that i know that the author received it and will be in touch soon. | When user submit form, success page will appear to indicate that message was sent (simulated due to the lack of a database or email system so far) | ![screenshot](documentation/features/screenshot-success-page.png) |
+| As a user | I want a clear, user-friendly homepage and navigation,|  so I can quickly see if the website is providing what I am looking for and easily find relevant information. | ![screenshot](documentation/features/features-homepage.png) |
+| As a user |  I want motivational and informative content with high-quality images and simple explanations.| so I feel inspired and supported by being given advice I need without getting overwhelmed. | ![screenshot](documentation/features/features-motivational-informative-content-example.png) |
+| As a user | I would like clear fonts, good contrast, and simple language, | so the site is easy to read and navigate. | ![screenshot](documentation/features/screenshot-images-with-text.png) |
+| As a user |  I want clear step-by-step information,  | so that I don’t feel overwhelmed by planning a trip on my own. | ![screenshot](documentation/features/features-rolldown-menu-to-specific-pages.png) |
+| As a user | I want tips and resources in one place,  | so that I don’t spend too much time searching across the internet | ![screenshot](documentation/features/screenshot-cards-linked-to-externals.png) |
+| As a user | I would like to follow WanderBudget on various platforms (e.g., Instagram, Facebook, Twitter), | so that I can stay updated with new content and ideas. | ![screenshot](documentation/features/screenshot-footer.png) |
+| As a user | I would like the website to be fully responsive, | so that I can easily navigate and access information on the go from my phone or tablet, and from comfort of my home on desktop. | ![screenshot](documentation/screenshot-mockup.png) |
+| As a user | I would like to see a 404 error if something goes wrong, | so that it's obvious that I've stumbled upon a page that doesn't exist. | ![screenshot](documentation/features/screenshot-404-page.png) |
+| As a user | I would like to know that my message was sent by seeing a success message,  | so that i know that the author received it and will be in touch soon. | ![screenshot](documentation/features/screenshot-success-page.png) |
+
+## Peers review
+
+I have asked number of friends for a feedback on my project. I have just recently found out that two other friends of my friends are interested in the website and asked for the website address - an outcome I have not expected.
+
+![screenshot](documentation/peers-reviews/screenshot_20251005_140238_Messenger.jpg) ![screenshot](documentation/peers-reviews/screenshot_20251005_140301_Messenger.jpg) ![screenshot](documentation/peers-reviews/screenshot_20251005_140642_Messenger.jpg)
+
 
 ## Bugs
 
@@ -133,4 +140,5 @@ Any remaining open issues can be tracked [here](https://www.github.com/Rubina197
 
 > [!IMPORTANT]  
 > There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility.
+
 
