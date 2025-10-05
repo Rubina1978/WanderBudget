@@ -241,12 +241,16 @@ ol li {
 
 /* europe and america*/
 
-  #europe-cities img,
+  
   #europe-ideas img,
   #europe-nature img,
   #get-around img
    {
   max-height: 30rem;
+}
+.spezia,
+.usa {
+  max-height:30rem;
 }
 
 #american-ideas img,
