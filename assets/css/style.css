@@ -122,18 +122,19 @@ article {
 }
 /* directories */
 
-.card-title {
-  font-weight: 700;
-  font-size: 1.5rem;
+.card-title  {
+  font-weight: 800;
+  font-size: 1.7rem;
+  text-shadow: 2px 3px 6px black; 
 }
 
 #directories .card img {
-  transition: filter 0.3s ease;
-
+  transition: 0.3s ease;
+  filter: brightness(50%);
 }
 
 #directories .card:hover img {
-  filter: brightness(40%); /* dims image */
+  filter: brightness(30%); /* dims image */
 }
 
 .card:hover {
